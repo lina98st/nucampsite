@@ -1,0 +1,28 @@
+{
+  "name": "nucampsite",
+  "version": "1.0.0",
+  "description": "A fictional campsites review website.",
+  "source": "index.html",
+  "scripts": {
+    "start": "parcel --open",
+    "build": "parcel build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lina98st/nucampsite.git"
+  },
+  "keywords": [],
+  "author": "Alina",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lina98st/nucampsite/issues"
+  },
+  "homepage": "https://github.com/lina98st/nucampsite#readme",
+  "devDependencies": {
+    "parcel": "^2.16.1"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^6.2.1",
+    "bootstrap": "^5.2.3"
+  }
+}
