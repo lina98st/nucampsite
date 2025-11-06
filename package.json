@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/lina98st/nucampsite#readme",
   "devDependencies": {
+    "@parcel/transformer-sass": "^2.16.1",
     "parcel": "^2.16.1"
   },
   "dependencies": {
